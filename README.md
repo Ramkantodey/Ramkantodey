@@ -6,11 +6,10 @@
 
 🖥️ Frontend Developer | Crafting Digital Experiences
 Hello! 👋 I’m a Frontend Developer with a passion for creating engaging, responsive web interfaces. Proficient in HTML, CSS, JavaScript, and experienced with React and Tailwind CSS, I aim to build user-friendly designs. 🌐 Always eager to learn and enhance web accessibility.
-
-🔹 Strengths: ✨ Clean code, 🎨 efficient design, 👥 user-centered approach
-🔹 Learning: 📚 Advanced JavaScript and React techniques
-🔹 Goals: 🚀 Craft impactful, functional projects
-
+:)
+🔹 Strengths: ✨ Clean code, 🎨 efficient design, 👥 user-centered approach <br>
+🔹 Learning: 📚 Advanced JavaScript and React techniques <br>
+🔹 Goals: 🚀 Craft impactful, functional projects <br>
 I love working on projects that inspire creativity and innovation. 🤝 Let’s connect if you have something exciting to build!
 
 
