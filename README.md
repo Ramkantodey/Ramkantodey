@@ -2,14 +2,14 @@
 ![Web Developer](https://i.ibb.co.com/nMjJpjk/Ramkanto-Dey.png)
 ### Hi there 👋, I'm Kanto
 #### Web Developer
-
+[![](https://visitcount.itsvg.in/api?id=Ramkantodey&icon=0&color=10)](https://visitcount.itsvg.in) 
 
 🖥️ Frontend Developer | Crafting Digital Experiences
 Hello! 👋 I’m a Frontend Developer with a passion for creating engaging, responsive web interfaces. Proficient in HTML, CSS, JavaScript, and experienced with React and Tailwind CSS, I aim to build user-friendly designs. 🌐 Always eager to learn and enhance web accessibility. <br>
-🔹 Strengths: ✨ Clean code, 🎨 efficient design, 👥 user-centered approach <br>
-🔹 Learning: 📚 Advanced JavaScript and React techniques <br>
-🔹 Goals: 🚀 Craft impactful, functional projects <br>
-I love working on projects that inspire creativity and innovation. 🤝 Let’s connect if you have something exciting to build!
+   🔹 Strengths: ✨ Clean code, 🎨 efficient design, 👥 user-centered approach <br>
+    🔹 Learning: 📚 Advanced JavaScript and React techniques <br>
+     🔹 Goals: 🚀 Craft impactful, functional projects <br>
+❤️I love working on projects that inspire creativity and innovation. 🤝 Let’s connect if you have something exciting to build!
 
 
 ## 🌐 Socials:
@@ -22,12 +22,4 @@ I love working on projects that inspire creativity and innovation. 🤝 Let’s 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkantodey&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  <br>
 ![](https://github-readme-stats.vercel.app/api?username=Ramkantodey&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br>  ![](https://github-readme-streak-stats.herokuapp.com/?user=Ramkantodey&theme=radical&hide_border=false)
 
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ramkantodey&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-  
-
----
-[![](https://visitcount.itsvg.in/api?id=Ramkantodey&icon=0&color=10)](https://visitcount.itsvg.in) <br>
