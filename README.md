@@ -3,10 +3,6 @@
 ### Hi there 👋, I'm Kanto
 #### Web Developer
 
-- 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Developme 
 
 🖥️ Frontend Developer | Crafting Digital Experiences
 Hello! 👋 I’m a Frontend Developer with a passion for creating engaging, responsive web interfaces. Proficient in HTML, CSS, JavaScript, and experienced with React and Tailwind CSS, I aim to build user-friendly designs. 🌐 Always eager to learn and enhance web accessibility.
